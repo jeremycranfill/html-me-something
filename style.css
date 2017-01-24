@@ -1,0 +1,50 @@
+*{
+    background-color: lightgrey
+}
+h1{
+    font-size:  2em;
+    font-style: oblique;
+    font-family: fantasy;
+    align-self: center;
+    padding: 20
+
+}
+
+#a1 {
+
+    width: 700px ;
+    margin-left: auto ;
+    margin-right: auto ;
+    background-color: red;
+    font: helvetica;
+    font-size: 1.5em;
+    align-content: center;
+
+}
+
+img {
+    border-radius: 5%;
+    max-width: 75%;
+   height: auto;
+   padding: 20;
+
+}
+p + img {
+    background-color: Blue;
+
+}
+
+.title{
+    background-color: red
+
+}
+
+#div2{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+p {
+text-align: center;
+}
